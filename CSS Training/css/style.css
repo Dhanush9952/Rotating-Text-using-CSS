@@ -1,0 +1,22 @@
+h1,p,ul
+{
+    border: 1px solid firebrick;
+}
+body
+{
+    margin: auto;
+}
+p
+{
+    width:auto;
+    margin: 25px 25px 25px 25px;   
+}
+div
+{
+    box-sizing: border-box;
+    border: 2px solid green;
+    width: 250px;
+    height: 150px;
+    padding: 25px;
+    overflow: scroll;
+}

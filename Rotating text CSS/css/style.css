@@ -55,10 +55,13 @@ body{
 .container .box span i:nth-child(1)
 {
     font-style: initial;
-    color: #ff246f;
+    color: #FF9933;
 }
 .container .box span i:nth-child(2)
 {
     font-style: initial;
-    color: #12b5ff;
+    color: #16a309;
+}
+h1{
+    color: #fff;
 }
